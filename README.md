@@ -6,7 +6,6 @@
 
 **Working on**
 - [octane](https://octane.wtf) Best roblox revival
-- [pekora reborn](https://pekora.pro) roblox revival
 - [luau](https://luau.org) luau scripting
 
 ---
