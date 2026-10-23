@@ -6,7 +6,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/unwllnd/Octane-Bootstrapper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-octane-bootstrapper-dark.svg"><img src="assets/project-octane-bootstrapper-light.svg" width="49%" alt="Octane-Bootstrapper"></picture></a>&nbsp;<a href="https://github.com/unwllnd/unwllnd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-unwllnd-dark.svg"><img src="assets/project-unwllnd-light.svg" width="49%" alt="unwllnd"></picture></a>
+<a href="https://github.com/unwllnd/Octane-Bootstrapper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-octane-bootstrapper-dark.svg"><img src="assets/project-octane-bootstrapper-light.svg" width="49%" alt="Octane-Bootstrapper"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
