@@ -1,34 +1,21 @@
-### unwlnd 
+<div align="center">
 
-> 16 y/o subhuman / luau dev from moscow
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m unwllnd"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-**Working on**
-- [octane](https://octane.wtf) Best roblox revival
-- [luau](https://luau.org) luau scripting
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-**Learning**
-- c++ and c#
-- [react](https://react.dev)
+<a href="https://github.com/unwllnd/Octane-Bootstrapper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-octane-bootstrapper-dark.svg"><img src="assets/project-octane-bootstrapper-light.svg" width="49%" alt="Octane-Bootstrapper"></picture></a>&nbsp;<a href="https://github.com/unwllnd/unwllnd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-unwllnd-dark.svg"><img src="assets/project-unwllnd-light.svg" width="49%" alt="unwllnd"></picture></a>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-**Stuff i like**
-- music
-- computers
-- linux btw yes i have the socks [nixos](https://nixos.org)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-**Languages**
+<a href="https://metawka.github.io/expressive-profile/?from=unwllnd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-<img src="https://skillicons.dev/icons?i=lua,cpp,cs,ts" alt="langs" />
-
----
-
-**Discord**
-
-<img src="https://img.shields.io/badge/discord-unwlnd-5865F2?logo=discord&logoColor=white&style=flat" alt="discord" />
+</div>
