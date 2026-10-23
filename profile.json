@@ -18,12 +18,13 @@
     "buttons"
   ],
   "hidden": [
-    "buttons"
+    "buttons",
+    "about"
   ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "Working on roblox revivals and a pro luau coder",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -33,7 +34,7 @@
       },
       {
         "icon": "code",
-        "label": "CPP · C#"
+        "label": "CPP · C# · LUAU"
       }
     ]
   },
@@ -99,11 +100,12 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [],
+    "repos": [
+      "Octane-Bootstrapper",
+      "unwllnd"
+    ],
     "overrides": {
-      "unwllnd": {
-        "shape": "clover"
-      }
+      "unwllnd": {}
     },
     "empty": "16 yo dev from moscow",
     "fork": "Fork"
