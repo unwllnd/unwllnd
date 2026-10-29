@@ -1,9 +1,9 @@
 {
- "key": "3066745d",
+ "key": "4612e9e4",
  "stars": 5,
  "contributions": 25,
  "repos": 2,
- "followers": 3,
+ "followers": 4,
  "languages": [
   [
    "Rust",
@@ -104,9 +104,13 @@
    {
     "c": 0,
     "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
     "today": true
    },
-   null,
    null,
    null
   ]
