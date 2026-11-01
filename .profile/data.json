@@ -1,6 +1,6 @@
 {
- "key": "ef91d5bd",
- "stars": 5,
+ "key": "5ca22ec0",
+ "stars": 6,
  "contributions": 25,
  "repos": 2,
  "followers": 4,
@@ -109,7 +109,7 @@
    "url": "https://github.com/unwllnd/Octane-Bootstrapper",
    "text": "Official Octane bootstrapper (launcher)",
    "fork": false,
-   "stars": 5,
+   "stars": 6,
    "language": "Rust",
    "topics": []
   }
@@ -120,7 +120,7 @@
    "url": "https://github.com/unwllnd/Octane-Bootstrapper",
    "text": "Official Octane bootstrapper (launcher)",
    "fork": false,
-   "stars": 5,
+   "stars": 6,
    "language": "Rust",
    "topics": []
   },
