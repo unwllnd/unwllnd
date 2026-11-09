@@ -1,5 +1,5 @@
 {
- "key": "19650bba",
+ "key": "43fc397b",
  "stars": 6,
  "contributions": 27,
  "repos": 2,
@@ -89,9 +89,13 @@
    {
     "c": 0,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
