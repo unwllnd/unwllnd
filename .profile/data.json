@@ -1,5 +1,5 @@
 {
- "key": "43fc397b",
+ "key": "ecfa2811",
  "stars": 6,
  "contributions": 27,
  "repos": 2,
@@ -94,9 +94,13 @@
    {
     "c": 0,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
