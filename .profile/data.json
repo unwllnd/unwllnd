@@ -1,5 +1,5 @@
 {
- "key": "ecfa2811",
+ "key": "179155d2",
  "stars": 6,
  "contributions": 27,
  "repos": 2,
@@ -99,9 +99,13 @@
    {
     "c": 0,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
