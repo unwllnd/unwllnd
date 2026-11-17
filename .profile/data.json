@@ -1,5 +1,5 @@
 {
- "key": "ec853a97",
+ "key": "171c6858",
  "stars": 6,
  "contributions": 27,
  "repos": 2,
@@ -94,9 +94,13 @@
    {
     "c": 0,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
